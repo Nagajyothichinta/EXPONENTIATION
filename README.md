@@ -25,7 +25,7 @@ print("Exponentiation of a given number:",a**b)
 ```
 
 ## Output:
-![exponentiation of a number](./ch2.png)
+![exponentiation of a number](https://github.com/Nagajyothichinta/EXPONENTIATION/blob/7c793921ca8f51893a327f105b214d64de990a6a/ch2.PNG)
 
 
 ## Result:
